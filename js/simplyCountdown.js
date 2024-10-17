@@ -115,7 +115,7 @@
      */
     simplyCountdown = function (elt, args) {
         var parameters = extend({
-            targetDate: new Date(2024, 8, 22, 7, 0, 0), // 2024-yil 22-sentabr 7:00
+            targetDate: new Date(2024, 9, 31, 14, 0, 0), // 2024-yil 31-oktyabr 14:00
             words: {
                 days: 'kun',
                 hours: 'soat',
